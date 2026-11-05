@@ -6,7 +6,7 @@
 
 Análise de underfitting, overfitting e generalização fora da distribuição de treino
 
-![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)
+![Google Colab](https://img.shields.io/badge/Google_Colab-T4_GPU-F9AB00?logo=googlecolab&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.9.0-EE4C2C?logo=pytorch&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLOv8n-111F68)
