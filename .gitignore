@@ -1,0 +1,26 @@
+# Saídas do Ultralytics
+runs/
+
+# Pesos: ignorados por padrão (ex.: yolov8n.pt baixado automaticamente),
+# exceto os três modelos treinados usados pelo notebook
+*.pt
+!weights/baseline/best.pt
+!weights/underfit/best.pt
+!weights/overfit/last.pt
+
+# Datasets baixados do Roboflow e gerados pelo notebook
+PCB_detection-*/
+PCB-Alterado-*/
+dataset_sabotado/
+sabotado.yaml
+datasets/
+
+# Ambiente
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
