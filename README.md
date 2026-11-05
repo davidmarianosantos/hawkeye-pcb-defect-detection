@@ -185,7 +185,7 @@ No notebook, pule as células `!pip install` se as dependências já estiverem i
 
 Trabalho avaliativo da disciplina de Inteligência Artificial (DEC000068) da Universidade Estadual de Santa Cruz (UESC), Ilhéus, 2025.
 
-O enunciado trazia um cenário industrial **fictício**, uma fábrica que inspeciona manualmente cerca de 2.000 placas por dia, e pedia uma análise de underfitting e overfitting. O cenário de negócio e o tema da análise vieram do enunciado.
+O enunciado pedia uma análise de underfitting e overfitting. Para contextualizar o problema, a equipe criou um cenário industrial **fictício**: uma fábrica que inspeciona manualmente cerca de 2.000 placas por dia.
 
 | Equipe |
 |---|
